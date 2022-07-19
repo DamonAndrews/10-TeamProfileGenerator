@@ -1,0 +1,26 @@
+{
+  "name": "module10challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  
+  "scripts": {
+    "test": "jest --colors",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonAndrews/Module10Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonAndrews/Module10Challenge/issues"
+  },
+  "homepage": "https://github.com/DamonAndrews/Module10Challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.2"
+  }
+}
