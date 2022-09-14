@@ -6,3 +6,10 @@ Your challenge is to build a Node.js command-line application that takes in info
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video and add it to the README of your project.
 
 Refer to the Video Submission Guide (Links to an external site.) on the Full-Stack Blog for additional guidance on creating a video.
+
+
+
+
+
+
+![team_prof_gen_screenshot](https://user-images.githubusercontent.com/107002411/190214590-9b869767-904d-4996-b047-583490753b95.jpg)
